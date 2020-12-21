@@ -26,12 +26,15 @@ body {
         font-size: 0.5em;
         padding: 0;
     }
-}
+    #title {
+        font-size: 0.5em;
+    }
+    #description-text {
+        font-size: 0.5em;
+        padding: 0;
+    }
 
-.push {
-    margin-left: auto;
 }
-
 ul {
     font-family: 'Text Me One', sans-serif;
     color: #c51162;
@@ -57,15 +60,18 @@ a:hover{
     font-family: 'Text Me One', sans-serif;
     font-weight: bold;
     font-size: 1.5em;
-    border-bottom: 1px solid #c51162;
-    width:auto;
+    margin-top: 1.4em;
     text-align: center;
-    margin: 2rem;
+}
+.underline {
+    border-bottom: 1px solid #c51162;
+    width: 20rem;
 }
 #description-text{
     margin-top: 3rem;
     font-family: 'Ubuntu', sans-serif;
     color:#C71585;
+    margin-left: 2em;
 }
 /***********************************************************************
  *  Cover
