@@ -31,7 +31,6 @@ body {
         margin-top: 2em;
     }
     #description-text {
-        /* font-size: 0.5em; */
         margin-top: 1em;
     }
 }
@@ -63,15 +62,16 @@ a:hover{
     font-size: 1.2em;
     margin-top: 1.2em;
     text-align: center;
+    margin-left: 1.2em;
 }
 .underline {
     border-bottom: 1px solid #c51162;
     width: 20rem;
 }
 #description-text{
-    margin-top: 4rem;
+    margin-top: 2rem;
     font-family: 'Ubuntu', sans-serif;
-    font-size: 0.8em;
+    font-size: 0.6em;
     color:#C71585;
     margin-left: 2em;
 
