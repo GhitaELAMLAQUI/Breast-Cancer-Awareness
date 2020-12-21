@@ -11,5 +11,4 @@ For this reason, **it's vital that women check their breasts regularly** for any
 
 ## WHAT IS THE WEBSITE ABOUT ?
 
-Breast cancer can have several symptoms, but the first noticeable symptom is usually a lump or area of thickened breast tissue. So this website helps to increase attention to this issue, and to raise people's awareness.
-
+Breast cancer can have several symptoms, but the first noticeable symptom is usually a lump or area of thickened breast tissue. So this website helps to increase attention to this matter, and to raise people's awareness. 
