@@ -28,7 +28,7 @@ body {
     }
     #title {
         font-size: 0.5em;
-        margin-top: 0.4em;
+        margin-top: 2em;
     }
     #description-text {
         /* font-size: 0.5em; */
@@ -84,6 +84,7 @@ a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 .cover-image{
     width: 100%;
